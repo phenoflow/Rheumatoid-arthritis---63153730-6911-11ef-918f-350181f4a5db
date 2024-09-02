@@ -1,0 +1,81 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/rheumatoid-arthritis-psoriasis---primary.py
+inputModule3:
+  class: File
+  path: python/polyarthropathy-rheumatoid-arthritis---primary.py
+inputModule4:
+  class: File
+  path: python/psoriatic-rheumatoid-arthritis---primary.py
+inputModule5:
+  class: File
+  path: python/rheumatoid-arthritis-factor---primary.py
+inputModule6:
+  class: File
+  path: python/rheumatoid-arthritis-felty---primary.py
+inputModule7:
+  class: File
+  path: python/rheumatoid-arthritis-specified---primary.py
+inputModule8:
+  class: File
+  path: python/multiple-rheumatoid-arthritis---primary.py
+inputModule9:
+  class: File
+  path: python/rheumatoid-arthritis---primary.py
+inputModule10:
+  class: File
+  path: python/rheumatoid-arthritis-shoulder---primary.py
+inputModule11:
+  class: File
+  path: python/rheumatoid-arthritis-elbow---primary.py
+inputModule12:
+  class: File
+  path: python/rheumatoid-arthritis-wrist---primary.py
+inputModule13:
+  class: File
+  path: python/right-rheumatoid-arthritis---primary.py
+inputModule14:
+  class: File
+  path: python/rheumatoid-arthritis-ankle---primary.py
+inputModule15:
+  class: File
+  path: python/rheumatoid-arthritis-vasculitis---primary.py
+inputModule16:
+  class: File
+  path: python/rheumatoid-arthritis-heart---primary.py
+inputModule17:
+  class: File
+  path: python/myopathy-rheumatoid-arthritis---primary.py
+inputModule18:
+  class: File
+  path: python/polyneuropathy-rheumatoid-arthritis---primary.py
+inputModule19:
+  class: File
+  path: python/systemic-rheumatoid-arthritis---primary.py
+inputModule20:
+  class: File
+  path: python/other-rheumatoid-arthritis---primary.py
+inputModule21:
+  class: File
+  path: python/rheumatoid-arthritis-vertebra---primary.py
+inputModule22:
+  class: File
+  path: python/rheumatoid-arthritis-bursitis---primary.py
+inputModule23:
+  class: File
+  path: python/rheumatoid-arthritis-nodule---primary.py
+inputModule24:
+  class: File
+  path: python/arthritis---primary.py
+inputModule25:
+  class: File
+  path: python/rheumatoid-arthritis-erythematosus---primary.py
+inputModule26:
+  class: File
+  path: python/output-cases.py
